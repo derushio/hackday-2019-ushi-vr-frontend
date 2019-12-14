@@ -19,6 +19,7 @@
     "exif-js": "^2.3.0",
     "extendable-error": "^0.1.5",
     "lodash": "^4.17.15",
+    "opencv4nodejs": "^5.5.0",
     "quasar": "^1.4.5",
     "register-service-worker": "^1.6.2",
     "roboto-fontface": "^0.10.0",
